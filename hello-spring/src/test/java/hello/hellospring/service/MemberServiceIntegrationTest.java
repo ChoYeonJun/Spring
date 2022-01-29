@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @SpringBootTest
 @Transactional //DB저장 Test 실행 Rollback Annotation
-    
+
 
 class MemberServiceIntegrationTest {
 
